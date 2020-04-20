@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ftenoz/bc-examples-01-inbox#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "ganache-cli": "^6.9.1",
     "mocha": "^7.1.1",
     "solc": "^0.4.17",

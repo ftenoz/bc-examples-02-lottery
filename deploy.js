@@ -24,3 +24,5 @@ const deploy = async () => {
 };
 deploy();
 
+//address of the deployed contract 0xA77FDFD11837e4bCA77D243367dFFA24Fa1DB054
+
