@@ -1,0 +1,26 @@
+{
+  "name": "bc-examples-01-inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftenoz/bc-examples-01-inbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftenoz/bc-examples-01-inbox/issues"
+  },
+  "homepage": "https://github.com/ftenoz/bc-examples-01-inbox#readme",
+  "dependencies": {
+    "ganache-cli": "^6.9.1",
+    "mocha": "^7.1.1",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.6"
+  }
+}
